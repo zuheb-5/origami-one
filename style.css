@@ -1,0 +1,12 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-image:image("backgroundimg.png");
+    border:solid;;
+    display: flex;
+    justify-content:center ;
+}
+
+p{
+    color: darkturquoise;
+}
+
